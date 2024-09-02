@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "phaser": "^3.80.1"
+    "phaser": "^3.80.1",
+    "web3": "^4.12.1"
   }
 }
